@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\AndroidStuidoProject\RibbitTreeHouse\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-11e800f3314816754847df441f816234f9a502a1.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStuidoProject\RibbitTreeHouse\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\AndroidStuidoProject\RibbitTreeHouse\app\build\intermediates\pre-dexed\debug\commons-io-2.4-2fd5b25cf88de0406f6525b36c098b55359fa112.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStuidoProject\RibbitTreeHouse\app\libs\Parse-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
+        <dex dex="E:\AndroidStuidoProject\RibbitTreeHouse\app\build\intermediates\pre-dexed\debug\Parse-1.3.9-6a2cd0cbad236860036c796476d2ecdb50c82216.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStuidoProject\RibbitTreeHouse\app\libs\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="E:\AndroidStuidoProject\RibbitTreeHouse\app\build\intermediates\pre-dexed\debug\picasso-2.1.1-caca2b3fb12a37c79866f74c6166e1ebb90db8e4.jar" />
+    </item>
+
+</items>
